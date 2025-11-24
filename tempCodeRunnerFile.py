@@ -1,0 +1,1 @@
+name=st.text_input("Enter name:")   
